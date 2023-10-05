@@ -1,6 +1,7 @@
 name: Redeploy to Heroku every hour
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'  # This runs every hour
 
