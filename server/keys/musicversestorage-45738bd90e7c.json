@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "musicversestorage",
+  "private_key_id": "45738bd90e7c69cd3252b397508303d01790b39b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDKqUOpe6jwFCof\nvBsRCdP8qfvSG0SfklkA627dvSB4MgjEPraonn6DyIIXcU09mXIr2PxbKX4Tb1Yk\n5JF2HwyuMnACEvJin2hYzFCV4E6jIZf5vMWQuDn4aZM4/cVFbkpY4GzPi1FIhVnc\nbbWaqZUIoin5iKpIUcbjVN/H462k2XW6+WsbtZaXmRCxTH+g/Bif6+gEO+HLxLQ5\n0mybmwhRWSJuD+HceTt7cC/C2xjHvP3RNmNpU6wpF7BCBah1ETcW9OslA4/PFgBc\nNgsdU+cdFYWaChMufLKMEZzGogzIkbxr+Kfxuk4s518Ll3BhoMCzjLGFkT91kcgI\n/3eeJcB1AgMBAAECggEABKPYeT5sEUcc6coYQo0bjerkaZyXNyIWKJe7W5dTcX0P\nx1J6QyUR13mVRO0irBjhzNA0gu/Rw6cmbUTQcchnNWvRNbLyWsC0lmfjJnNSyZhg\nzuZ8DYKyTRY5uTHSPPM3/43v39acP1FSS+I1KLvePircVCrFX0+EArt0PjLfzGjl\nuMFJMG79XTeYJaGPJzmPcqklaDfiL6An4UJrNmdeJIm3FDZzAO7HkU1JfDq9WHAf\nnTjqH9rqZ7kaztNYNgKYrbcL/EDVkNIiH2Ah2UsR8lYnO9fQhp5eo+j5lcks/ezm\naXn4mC39OII7ZfEKjz1PHPlnar+F5ODHpN23atGE8QKBgQD5LtrjkVv63pEH84OU\noZG7pt1cdei/qgy9tjyWYlgO65+pmOTtH71xBYKqVeqmcb5ZZcxPQ5Dhx6TfXtWZ\nyazwxOzZtlm875A16oS7SEg2n0OjoN2scUxE+bY5epgetl2SPQ9oNUtQvnqSJIIU\nN6PHCf91cvfJsqZXnbez3EofbQKBgQDQNJhat8l6P3qfLkROPoEyBtw0JD289WMV\naKnNjYd3Us+hnui49Wm6PSO54p8jZgmNad+9hFtxIMkjpSUhzXYSOzd2o1PILv4q\naR5g5+lw9IwXX/UlaChzUyBbkzlP5gjFtxPjqpcvgXS/6B4PmP4GJ1+ddwN4QItL\n+A6luVaYKQKBgHUs5V2R4zDrLEQS7NMdzwvxAbMS9yn56xfi9Ea7ZDFP97qm3S/s\ndwcI0lMLJ9axMhOT3SmA2kZxvUQUslkpDxwBXmdaaoSAGs5fw57V9K9K4WG2qccH\nWBgvXNNWpOX8V7AG6pHUTeBgUf8bD9g1+dwFBY3TTFYankIhNltrwadZAoGAH/jz\nrHqspek5m1gvhRR0IoqLJjaqhGnqXU9FRBuHwfslh1wvwLdvFPpukg0LAxSYQu8P\nPLsmj6jJOoARw68ZgpM1YTKTmxocTcb2s0rpvj7PhIdnzebAz3TkcyuYkXxxvGrw\n0vVPYiwvEYlDlIGaALfrJvMvxTekLHZbSXe8pIECgYB8uW0BXTCU4VW5MFhD767y\n4icPK1X2oRObAkFwCA8LNKHjBGcy173EEsyVwd8DV8vr7z4rNbqmedY54ohVvRSp\n4V/ougfhQJgrK3Mvi47CnmBfGMBb/Cxc/E2kyOI/09w9M24JPi4a3ZKaEx6xu8Zd\nvOH4PdU3++Wm8AehGYmgAA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "musicverseimage@musicversestorage.iam.gserviceaccount.com",
+  "client_id": "101521469359593649778",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/musicverseimage%40musicversestorage.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
